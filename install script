@@ -1,0 +1,1 @@
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/FC15985/dante-autoinstall/main/dante_install.sh)"
